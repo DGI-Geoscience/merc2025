@@ -10,11 +10,11 @@ The following five questions are referring to the WellCAD plot in the PDF file l
 
 PDF version can be found here:
 
-[PRP_Excerise1.pdf](https://github.com/DGI-Geoscience/merc2023/blob/master/PRP_Exercise1.pdf)
+[PRP_Excerise1.pdf](https://github.com/DGI-Geoscience/merc2025/blob/main/PRP_Exercise1.pdf)
 
 WellCAD version can be found here:
 
-[PRP_Excerse1.wcl](https://github.com/DGI-Geoscience/merc2023/blob/master/PRP_Exercise1.WCL)
+[PRP_Excerse1.wcl](https://github.com/DGI-Geoscience/merc2025/blob/main/PRP_Exercise1.WCL)
 
 WellCAD Reader Download:
 
